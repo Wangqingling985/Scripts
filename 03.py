@@ -5,8 +5,7 @@ class Test01():
         print("test01被执行")
     def test02(self):
         print("test02被执行")
-    def test05(self):
-        print("test03被执行")
+
 
 
 
